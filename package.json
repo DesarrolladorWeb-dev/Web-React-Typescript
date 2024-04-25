@@ -8,9 +8,9 @@
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "test" : "echo 'hola haciendo testing '"
+    "test" : "echo 'hola haciendo testing "
   },
-  "dependencies": {
+  "dependencies": { 
     "@types/styled-components": "^5.1.22",
     "crypto-js": "^4.2.0",
     "react": "^18.2.0",
