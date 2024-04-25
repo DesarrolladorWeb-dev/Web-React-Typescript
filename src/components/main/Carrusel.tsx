@@ -1,4 +1,4 @@
-import React, { useEffect , useState  } from "react";
+import  { useEffect , useState  } from "react";
 import { Container, AvatarContaint, Avatar , Degrade} from "../styled.components";
 import * as CryptoJS from 'crypto-js';
 import BlackWindow from '../../assets/black-window.png';
